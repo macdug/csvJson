@@ -1,0 +1,19 @@
+{
+  "name": "csvjson",
+  "version": "1.0.0",
+  "description": "convert csv to json for edx Node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdug/csvJson.git"
+  },
+  "author": "Doug MacLeod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macdug/csvJson/issues"
+  },
+  "homepage": "https://github.com/macdug/csvJson#readme"
+}
